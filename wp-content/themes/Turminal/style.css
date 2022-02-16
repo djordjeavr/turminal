@@ -1,0 +1,58 @@
+/*
+Theme Name: Wincasa template
+Theme URI: https://www.singularity.is
+Author: Singularity Solution - Djordje
+Author URI: https://www.singularity.is
+Description:
+Version: 1.0
+
+* For the full copyright and license information, please view
+* the LICENSE file that was distributed with this source code.
+
+*/
+
+.coluber {
+    max-width: 420px;
+}
+.mid-text a{
+    text-decoration: none;
+}
+.link{
+    text-decoration: underline!important;
+}
+.p-10{
+    padding-top: 15px;
+}
+.block-three a{
+    color: #000;
+    text-decoration: underline;
+
+}
+.nowrap{
+    white-space: nowrap;
+}
+.wpcf7-list-item-label{
+    font-weight: 400;
+}
+.wpcf7-list-item-label a{
+    font-weight: 700;
+}
+.wpcf7-list-item{
+    margin: 0;
+}
+#grundrissplan{
+    text-decoration: none;
+}
+#broschure{
+    text-decoration: none;
+}
+.body{
+    min-height: 600px;
+}
+
+@media (max-width: 991px) and (min-width: 600px) {
+    .wpcf7-form {
+        width: 70%;
+    }
+
+}
